@@ -71,7 +71,7 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 [![New Rank: Senior Kusto Detective](https://images.credly.com/size/110x110/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png)](https://www.credly.com/badges/29899de4-4629-46f3-b0cf-a4060d2d14af/public_url)
 [![New Rank: Kusto Detective III](https://images.credly.com/size/110x110/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png)](https://www.credly.com/badges/4eb65ef4-bff4-4e6c-ac95-878ec41fde99/public_url)
-[![New Rank: Kusto Detective II](https://images.credly.com/size/110x110/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png)](http://www.credly.com/badges/23be7287-38d4-4f97-886e-0ce6b971ce25 "New Rank: Kusto Detective II")
+[![New Rank: Kusto Detective II](https://images.credly.com/size/110x110/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png)](https://www.credly.com/badges/05a43871-0b92-4b73-8dcf-eb7db59916c8/public_url "New Rank: Kusto Detective II")
 
 <!--END_SECTION:badges-->
 
