@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kuldeepsingh-in/kuldeepsingh-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,70 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkuldeepsingh-in%2Fkuldeepsingh-in&labelColor=%232ccce4&countColor=%23555555)
+
+```kusto
+Kuldeep Singh
+| where Title == 'Cloud and Data Architect'
+  and Focus == 'Microsoft Azure / Data Architecture / ESG / Sustainability' 
+| project 
+Location: London UK, 
+Email: 'in.singhkuldeep@gmail.com', 
+LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
+```
+
+# 😎 About me 
+
+- 🔭 I’m currently working on Azure OpenAI and Azure Cognitive Serviecs
+- 🌱 I’m currently learning even more about AI
+- 👯 I’m looking to collaborate on any good idea!
+- 💬 Ask me about anything you want!
+- 📫 How to reach me: See below!
+- ⚡ Fun fact: <>
+
+# ✍️ Blog and writing
+<!-- blog-post-list:start -->
+## kuldeep.singh
+
+[Read more](https://kuldeepsingh-in.github.io/)
+> Last updated: Saturday, July 20, 2023 at 12:24:46 AM
+
+> Showing 2 of 15 posts.
+
+[![Title 1](https://kuldeepsingh-in.github.io/)
+
+<!-- blog-post-list:end -->
+
+# 📈 GitHub Stats
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=kuldeepsingh-in&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=kuldeepsingh-in&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=kuldeepsingh-in&show_icons=true" />
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepsingh-in&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/kuldeepsingh-in/github-readme-stats)
+
+# 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/kuldeepsingh/badges)
+<!--START_SECTION:badges-->
+
+[![New Rank: Senior Kusto Detective](https://images.credly.com/size/110x110/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png)](http://www.credly.com/badges/1fe2a960-c4cf-4335-9ad1-8bafca524d76 "New Rank: Senior Kusto Detective")
+[![New Rank: Kusto Detective III](https://images.credly.com/size/110x110/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png)](http://www.credly.com/badges/ea1579c4-8842-4827-8565-9e80068949fa "New Rank: Kusto Detective III")
+[![New Rank: Kusto Detective II](https://images.credly.com/size/110x110/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png)](http://www.credly.com/badges/23be7287-38d4-4f97-886e-0ce6b971ce25 "New Rank: Kusto Detective II")
+
+<!--END_SECTION:badges-->
+
+# 🔔 Follow me
+[![Twitter Badge](https://img.shields.io/twitter/follow/in_kuldeepsingh?style=social)](https://twitter.com/in_kuldeepsingh)
+[![Linkedin Badge](https://img.shields.io/badge/-KuldeepSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kuldeepsingh-in/)](https://www.linkedin.com/in/kuldeepsingh-in/) 
+[![GitHub followers](https://img.shields.io/github/followers/kuldeepsingh-in?label=Follow&style=social)](https://github.com/kuldeepsingh-in/?tab=follow)
