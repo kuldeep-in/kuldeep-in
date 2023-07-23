@@ -1,8 +1,6 @@
 <!--
 **kuldeepsingh-in/kuldeepsingh-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,10 +13,9 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkuldeepsingh-in%2Fkuldeepsingh-in&labelColor=%232ccce4&countColor=%23555555)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkuldeepsingh-in%2Fkuldeepsingh-in&labelColor=%232ccce4&countColor=%23555555)
-
+<!--
 ```kusto
 Kuldeep Singh
 | where Title == 'Cloud and Data Architect'
@@ -28,6 +25,7 @@ Location: London UK,
 Email: 'in.singhkuldeep@gmail.com', 
 LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 ```
+-->
 
 # 😎 About me 
 
@@ -40,16 +38,23 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
-## [Tech with KD](https://github.com/kuldeepsingh-in/TechWithKD) 
+### [Azure Data](https://github.com/kuldeepsingh-in/TechWithKD) 
 > Last updated: Saturday, July 20, 2023 at 12:24:46 AM
 
+### [Azure DevOps](https://github.com/kuldeepsingh-in/TechWithKD) 
+> Last updated: Saturday, July 20, 2023 at 12:24:46 AM
+
+### [Databricks](https://github.com/kuldeepsingh-in/TechWithKD) 
+> Last updated: Saturday, July 20, 2023 at 12:24:46 AM
+
+<!--
 [Read more](https://kuldeepsingh-in.github.io/)
 > Last updated: Saturday, July 20, 2023 at 12:24:46 AM
 
 > Showing 2 of 15 posts.
 
 [![Title 1](https://kuldeepsingh-in.github.io/)
-
+-->
 <!-- blog-post-list:end -->
 
 # 📈 GitHub Stats
