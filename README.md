@@ -39,7 +39,9 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
 [![Azure Data](https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=TechWithKD&theme=transparent)](https://github.com/kuldeepsingh-in/TechWithKD)
+[![Azure Data](https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=ResumeWebsiteNetCoreRepo&theme=transparent)](https://github.com/kuldeepsingh-in/ResumeWebsiteNetCoreRepo)
 
+<!--
 ### [Azure Data](https://github.com/kuldeepsingh-in/TechWithKD) 
 > Last updated: Saturday, July 20, 2023 at 12:24:46 AM
 
@@ -48,6 +50,7 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 ### [Databricks](https://github.com/kuldeepsingh-in/TechWithKD) 
 > Last updated: Saturday, July 20, 2023 at 12:24:46 AM
+-->
 
 <!--
 [Read more](https://kuldeepsingh-in.github.io/)
