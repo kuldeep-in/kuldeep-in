@@ -38,6 +38,8 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
+[![Azure Data](https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=TechWithKD&theme=transparent)](https://github.com/kuldeepsingh-in/TechWithKD)
+
 ### [Azure Data](https://github.com/kuldeepsingh-in/TechWithKD) 
 > Last updated: Saturday, July 20, 2023 at 12:24:46 AM
 
@@ -50,20 +52,18 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 <!--
 [Read more](https://kuldeepsingh-in.github.io/)
 > Last updated: Saturday, July 20, 2023 at 12:24:46 AM
-
 > Showing 2 of 15 posts.
-
 [![Title 1](https://kuldeepsingh-in.github.io/)
 -->
 <!-- blog-post-list:end -->
 
 # 📈 GitHub Stats
-<a href="https://github.com/kuldeepsingh-in/github-readme-stats">
+<picture>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepsingh-in&rank_icon=github&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/kuldeepsingh-in/convoychat">
+</picture>
+<picture>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepsingh-in&theme=transparent&hide=Less,SCSS&layout=compact&langs_count=8" />
-</a>
+</picture>
 <!-- &card_width=320 -->
 <!--
 <picture>
