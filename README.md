@@ -40,7 +40,8 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
-## [kuldeep.singh](https://github.com/kuldeepsingh-in/TechWithKD)
+## [Tech with KD](https://github.com/kuldeepsingh-in/TechWithKD) 
+> Last updated: Saturday, July 20, 2023 at 12:24:46 AM
 
 [Read more](https://kuldeepsingh-in.github.io/)
 > Last updated: Saturday, July 20, 2023 at 12:24:46 AM
