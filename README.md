@@ -38,8 +38,12 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
-[![Azure Data](https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=TechWithKD&theme=transparent)](https://github.com/kuldeepsingh-in/TechWithKD)
-[![Azure Data](https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=ResumeWebsiteNetCoreRepo&theme=transparent)](https://github.com/kuldeepsingh-in/ResumeWebsiteNetCoreRepo)
+<a href="https://github.com/kuldeepsingh-in/TechWithKD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=TechWithKD&theme=transparent" />
+</a>
+<a href="https://github.com/kuldeepsingh-in/ResumeWebsiteNetCoreRepo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=ResumeWebsiteNetCoreRepo&theme=transparent" />
+</a>
 
 <!--
 ### [Azure Data](https://github.com/kuldeepsingh-in/TechWithKD) 
