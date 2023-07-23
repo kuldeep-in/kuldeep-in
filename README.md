@@ -87,11 +87,38 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/kuldeepsingh/badges)
 <!--START_SECTION:badges-->
-
-[![New Rank: Senior Kusto Detective](https://images.credly.com/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png) width="10%" max-width="100"](https://www.credly.com/badges/29899de4-4629-46f3-b0cf-a4060d2d14af/public_url)
-[![New Rank: Kusto Detective III](https://images.credly.com/size/110x110/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png)](https://www.credly.com/badges/4eb65ef4-bff4-4e6c-ac95-878ec41fde99/public_url)
-[![New Rank: Kusto Detective II](https://images.credly.com/size/110x110/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png)](https://www.credly.com/badges/05a43871-0b92-4b73-8dcf-eb7db59916c8/public_url "New Rank: Kusto Detective II")
-
+<!--Cloud solutions Architect -->
+<a href="https://www.credly.com/badges/29899de4-4629-46f3-b0cf-a4060d2d14af/public_url">
+  <img height="150px" src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" />
+</a>
+<!--S2 Case4 -->
+<a href="https://www.credly.com/badges/29899de4-4629-46f3-b0cf-a4060d2d14af/public_url">
+  <img height="150px" src="https://images.credly.com/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png" />
+</a>
+<!--S2 Case3 -->
+<a href="https://www.credly.com/badges/4eb65ef4-bff4-4e6c-ac95-878ec41fde99/public_url">
+  <img height="150px" src="https://images.credly.com/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png" />
+</a>
+<!--S2 Case2 -->
+<a href="https://www.credly.com/badges/05a43871-0b92-4b73-8dcf-eb7db59916c8/public_url">
+  <img height="150px" src="https://images.credly.com/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png" />
+</a>
+<!--S2 Case1 -->
+<a href="https://www.credly.com/badges/05a43871-0b92-4b73-8dcf-eb7db59916c8/public_url">
+  <img height="150px" src="https://images.credly.com/images/304d7409-3dd5-40b6-ab20-88d3ec012eb1/image.png" />
+</a>
+<!--S2 Onboarding -->
+<a href="https://www.credly.com/badges/05a43871-0b92-4b73-8dcf-eb7db59916c8/public_url">
+  <img height="150px" src="https://images.credly.com/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png" />
+</a>
+<!--S1 2022 -->
+<a href="https://www.credly.com/badges/05a43871-0b92-4b73-8dcf-eb7db59916c8/public_url">
+  <img height="150px" src="https://images.credly.com/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png" />
+</a>
+<!--S1 Case1 -->
+<a href="https://www.credly.com/badges/05a43871-0b92-4b73-8dcf-eb7db59916c8/public_url">
+  <img height="150px" src="https://images.credly.com/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png" />
+</a>
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
