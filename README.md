@@ -69,6 +69,9 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
   <img height=200 align="center" src="https://raw.githubusercontent.com/kuldeepsingh-in/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 </picture>
 <picture>
+  <img height=200 align="center" src="https://raw.githubusercontent.com/kuldeepsingh-in/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</picture>
+<picture>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepsingh-in&rank_icon=github&show_icons=true&theme=transparent" />
 </picture>
 <picture>
