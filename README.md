@@ -71,13 +71,14 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 <picture>
   <img height=200 align="center" src="https://raw.githubusercontent.com/kuldeepsingh-in/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </picture>
+<!--
 <picture>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepsingh-in&rank_icon=github&show_icons=true&theme=transparent" />
 </picture>
 <picture>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepsingh-in&theme=transparent&hide=HTML,Less,SCSS&layout=compact&langs_count=8" />
 </picture>
-<!-- &card_width=320 -->
+&card_width=320 -->
 <!--
 <picture>
 <source srcset="https://github-readme-stats.vercel.app/api?username=kuldeepsingh-in&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
