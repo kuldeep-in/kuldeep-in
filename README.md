@@ -62,10 +62,10 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 # 📈 GitHub Stats
 <picture>
-  <img height=200 align="center" src="https://raw.githubusercontent.com/kuldeepsingh-in/github-stats/master/generated/overview.svg#kd-dark-mode-02" />
+  <img height=200 align="center" src="https://raw.githubusercontent.com/kuldeepsingh-in/github-stats/master/generated/overview.svg#kd-darkmode" />
 </picture>
 <picture>
-  <img height=200 align="center" src="https://raw.githubusercontent.com/kuldeepsingh-in/github-stats/master/generated/languages.svg#kd-dark-mode-02" />
+  <img height=200 align="center" src="https://raw.githubusercontent.com/kuldeepsingh-in/github-stats/master/generated/languages.svg#kd-darkmode" />
 </picture>
 <!--
 <picture>
