@@ -123,5 +123,5 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 # 🔔 Follow me
 [![Twitter Badge](https://img.shields.io/twitter/follow/in_kuldeepsingh?style=social)](https://twitter.com/in_kuldeepsingh)
-[![Linkedin Badge](https://img.shields.io/badge/-KuldeepSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kuldeepsingh-in/)](https://www.linkedin.com/in/kuldeepsingh-in/) 
-[![GitHub followers](https://img.shields.io/github/followers/kuldeepsingh-in?label=Follow&style=social)](https://github.com/kuldeepsingh-in/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-KuldeepSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kuldeep-in/)](https://www.linkedin.com/in/kuldeep-in/) 
+[![GitHub followers](https://img.shields.io/github/followers/kuldeepsingh-in?label=Follow&style=social)](https://github.com/kuldeep-in/?tab=follow)
