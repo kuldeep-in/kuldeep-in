@@ -25,8 +25,8 @@ LinkedIn: 'https://www.linkedin.com/in/kuldeepsingh-in/'
 
 # 😎 About me 
 
-- 🔭 I’m currently working on Azure OpenAI and Azure Cognitive Serviecs
-- 🌱 I’m currently learning even more about AI
+- 🔭 Solutions Architect
+- 🌱 Engineering, AI/ML
 - 👯 I’m looking to collaborate on any good idea!
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: See below!
